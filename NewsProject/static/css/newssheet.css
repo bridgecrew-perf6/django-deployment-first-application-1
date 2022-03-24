@@ -1,0 +1,10 @@
+h1{
+    color:blue;
+    background-color: lightyellow;
+    text-align: center;
+    border: 2px Solid Red;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
